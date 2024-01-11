@@ -4,19 +4,15 @@
 }
 
 body, html {
-  background: url(./bg);
+  /* background: url(./bg.jpg); */
   margin: 0;
-  height: 100vh;
+  /* height: 90%; */
   color: #fff;
   font-family: "Comfortaa", cursive;
 }
-p{
-  display: flex;
-  justify-content: center;
-  margin-top: 5rem;
-  font-size: 30px;
-  font-style: italic;
-  
+img{
+  width: 208vh;
+  height: 100vh;
 }
 .clock {
   --clock-size: 360px;
